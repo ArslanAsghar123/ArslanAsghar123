@@ -1,6 +1,6 @@
 # Hi there, I'm ArslanAsghar123 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ArslanAsghar123?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FArslanAsghar123&screen_name=ArslanAsghar123)
+[![Twitter Follow](https://img.shields.io/twitter/follow/billi1572?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbilli1572&screen_name=billi1572)
 
 
 
