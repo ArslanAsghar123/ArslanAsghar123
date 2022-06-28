@@ -47,7 +47,7 @@
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/arslan-asghar-3b9b38162/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/gmail.svg)](https://www.linkedin.com/in/arslan-asghar-3b9b38162/#gh-light-mode-only)
-[![website](./img/gmail-dark.svg)](https://www.linkedin.com/in/arslan-asghar-3b9b38162/#gh-dark-mode-only)
+[![website](./img/gmail-light.svg)](https://www.linkedin.com/in/arslan-asghar-3b9b38162/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 
