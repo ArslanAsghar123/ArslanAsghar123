@@ -3,6 +3,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/billi1572?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbilli1572&screen_name=billi1572)
 ![](https://komarev.com/ghpvc/?username=ArslanAsghar123&&color=blueviolet&style=for-the-badge )
 
+[![](https://github-readme-streak-stats.herokuapp.com/?user=ArslanAsghar123&theme=blue-green)](https://github.com/ArslanAsghar123/github-readme-streak-stats)
+
 
 
 ## I'm an  Flutter, iOS & SwiftUI  Developer!!
@@ -50,11 +52,12 @@
 &nbsp;&nbsp;
 
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=ArslanAsghar123&theme=blue-green)](https://github.com/ArslanAsghar123/github-readme-streak-stats)
 
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+
+
 
 <a href="https://github.com/ArslanAsghar123">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArslanAsghar123&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
