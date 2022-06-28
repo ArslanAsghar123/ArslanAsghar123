@@ -4,7 +4,7 @@
 
 
 
-## I'm an iOS, SwiftUI and Flutter Developer!!
+## I'm an  Flutter, iOS & SwiftUI  Developer!!
 
 - 🔭 passsionated about coding
 - 🌱 I’m currently learning everything 🤣
@@ -15,10 +15,12 @@
 
 <h3 align="left">🖥️ Technologies :</h3>
 
+<p align="left"><!-- Frameworks and Libraries -->
 <img src="https://img.shields.io/badge/Dart-0981d6?style=for-the-badge&logo=dart&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/-flutter-61DAFB?logo=flutter&style=for-the-badge&color=blue" height="25">
 <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" height="25">
+</p>
 
 <p align="left"><!-- Deployment -->
 <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" height="25">
