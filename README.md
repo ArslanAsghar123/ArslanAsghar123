@@ -12,7 +12,29 @@
 - 🥅 2022 Goals: Learn more about SwiftUI
 - ⚡ Fun fact: I love to debug and sort data structure problems
 
-### Connect with me:
+
+<h3 align="left">🖥️ Technologies :</h3>
+
+<img src="https://img.shields.io/badge/Dart-0981d6?style=for-the-badge&logo=dart&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/-flutter-61DAFB?logo=flutter&style=for-the-badge&color=blue" height="25">
+<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" height="25">
+
+<p align="left"><!-- Deployment -->
+<img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" height="25">
+</p>
+
+<p align="left"><!-- Other Tools -->
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="25">
+<img alt="Github" src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
+
+</p>
+
+
+<h3 align="left">📱 Contact me: </h3>
 
 
 [![website](./img/twitter-light.svg)](https://twitter.com/billi1572#gh-light-mode-only)
