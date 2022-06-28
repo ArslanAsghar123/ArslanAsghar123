@@ -60,6 +60,9 @@
 
 </details>
 
+![Snake animation](https://github.com/ArslanAsghar123/ArslanAsghar123/blob/output/github-contribution-grid-snake.svg)
+
+
 
 [twitter]: https://twitter.com/billi1572
 [instagram]: https://instagram.com/codeSTACKr
