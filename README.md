@@ -45,12 +45,10 @@
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/arslan-asghar-3b9b38162/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/arslan-asghar-3b9b38162/#gh-dark-mode-only)
-<a href="mailto:alemurillo104@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"></a>
-
 &nbsp;&nbsp;
-
-
-
+[![website](./img/gmail.svg)](https://www.linkedin.com/in/arslan-asghar-3b9b38162/#gh-light-mode-only)
+[![website](./img/gmail-dark.svg)](https://www.linkedin.com/in/arslan-asghar-3b9b38162/#gh-dark-mode-only)
+&nbsp;&nbsp;
 
 
 
