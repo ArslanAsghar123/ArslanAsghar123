@@ -1,15 +1,16 @@
-# Hi there, I'm ArslanAsghar123 
+# Hi there, I'm Arslan
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/billi1572?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbilli1572&screen_name=billi1572)
+![](https://komarev.com/ghpvc/?username=ArslanAsghar123&&color=blueviolet&style=for-the-badge )
 
 
 
 ## I'm an  Flutter, iOS & SwiftUI  Developer!!
 
-- 🔭 passsionated about coding
+- 🔭 passionated about coding
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about SwiftUI
+- 🥅 2022 Goals: Learn more about Flutter Animation & SwiftUI
 - ⚡ Fun fact: I love to debug and sort data structure problems
 
 
@@ -44,6 +45,8 @@
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/arslan-asghar-3b9b38162/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/arslan-asghar-3b9b38162/#gh-dark-mode-only)
+<a href="mailto:alemurillo104@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"></a>
+
 &nbsp;&nbsp;
 
 
